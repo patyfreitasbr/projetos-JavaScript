@@ -8,7 +8,7 @@ Este repositório contém projetos variados, cada um abordando diferentes concei
 
 ## Índice 🔗
 
-- [Projetos](##projetos)
+- [Projetos](#projetos)
 - [Como visualizar o projeto](#Como-visualizar-o-projeto)
 - [Contato](#contato)
 
