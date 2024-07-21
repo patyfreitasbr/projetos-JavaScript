@@ -12,7 +12,7 @@ Este repositório contém projetos variados, cada um abordando diferentes concei
 - [Como visualizar o projeto](#Como-visualizar-o-projeto)
 - [Contato](#contato)
 
-## Projetos 🚀
+## Projetos 
 
 ### Projeto 1: Light Dark Mode
 
