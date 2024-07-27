@@ -14,11 +14,7 @@ Este repositório contém projetos variados, cada um abordando diferentes concei
 
 ## Projetos 
 
-### Projeto 1: Light Dark Mode
-
-- Descrição: Site simples para demonstrar suporte para temas claros e escuros. desenvolvido durante curso da **Fundação Bradesco - Escola Virtual**
-- Tecnologias: CSS, HTML, JavaScript
-- Link do projeto: [clique aqui](https://github.com/patyfreitasbr/projetos-JavaScript/tree/main/light-dark-mode)
+1. [Light Dark Mode](https://github.com/patyfreitasbr/projetos-JavaScript/tree/main/light-dark-mode)
 
 ## Como visualizar o projeto
 
